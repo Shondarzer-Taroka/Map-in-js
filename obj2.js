@@ -6,3 +6,8 @@ const obj={
  const rs= Object.entries(obj)
  console.log(rs);
  
+
+ for (const [key,value] of rs) {
+    console.log(value);
+    
+ }

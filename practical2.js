@@ -20,6 +20,7 @@ function updateUserActivity(userId) {
 }
 
 updateUserActivity('sakib123')
+updateUserActivity('sakib38475')
 
 
 getuser('sakib123', { role: 'admin', username: 'sakibalhasan', phone: 84237467 })
